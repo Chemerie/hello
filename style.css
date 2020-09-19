@@ -1,0 +1,29 @@
+html{
+	height: 100%;
+	width: 100%;
+}
+body{
+	height: 100%;
+	width: 100%;
+	/*background: rgb(100, 0 ,50);*/
+	color: black;
+	display: grid;
+
+}
+.footer{
+	text-align: center;
+	background: rgb(0,0, 50);
+	
+	height: 1em;
+	color: white;
+}
+.header{
+	background: rgb(0, 50, 0);
+	height: 4em;
+	padding-left: 1em;
+	color: white;
+}
+
+.main{
+	height: 600px;
+}
